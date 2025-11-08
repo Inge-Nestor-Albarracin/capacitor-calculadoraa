@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">calculadoravite</string>
+    <string name="title_activity_main">calculadoravite</string>
+    <string name="package_name">com.calculadoravite.app</string>
+    <string name="custom_url_scheme">com.calculadoravite.app</string>
+</resources>
